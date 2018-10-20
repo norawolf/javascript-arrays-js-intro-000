@@ -11,4 +11,4 @@ function addElementToBeginningOfArray(array, element) {
   return dogs
 };
 
-function destructivelyAddElementToBeginningOfArray
+function destructivelyAddElementToBeginningOfArray {};
