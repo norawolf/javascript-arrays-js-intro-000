@@ -6,7 +6,7 @@ var chocolateBars = [
 ];
 
 function addElementToBeginningOfArray(array, element) {
-  var dogs = ['pomeranian', 'husky', 'golden retriever']
-  dogs = ['german shepherd', ...dogs]
-  return dogs
+  var foo = ['foo']
+  const fooTwo = ['1', ...foo]
+  return fooTwo
 };
