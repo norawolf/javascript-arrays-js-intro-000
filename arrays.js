@@ -10,5 +10,3 @@ function addElementToBeginningOfArray(array, element) {
   dogs = ['german shepherd', ...dogs]
   return dogs
 };
-
-function destructivelyAddElementToBeginningOfArray() {};
